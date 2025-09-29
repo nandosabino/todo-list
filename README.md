@@ -1,36 +1,53 @@
-<h1 align="center">Lista de Tarefas</h1>
-<h4 align="center">Este projeto é uma aplicação de Lista de Tarefas desenvolvida em React. Ele permite ao usuário gerenciar tarefas de forma eficiente, adicionando, editando, excluindo, e organizando suas atividades. A interface é intuitiva e oferece uma experiência fluida para o usuário.</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/status-completed-green" alt="status" />
-  <img src="https://img.shields.io/github/license/nandosabino/todo-list" alt="license" />
-</p>
-<br>
-<br>
+# ✅ ToDo List
 
-<h2>📋 Funcionalidades</h2>
-<ul>
-  <li>Adicionar novas tarefas</li>
-  <li>Editar tarefas existentes</li>
-  <li>Excluir tarefas</li>
-  <li>Destaque para tarefas com custo acima de R$1000</li>
-  <li>Marcar tarefas como concluídas com risco no texto</li>
-</ul>
+Aplicação de lista de tarefas desenvolvida em **React**, com foco em praticar conceitos de componentes, estado e manipulação de eventos.  
+Permite ao usuário **adicionar, concluir e remover tarefas**, com interface simples e responsiva.
 
-<h2>🚀 Tecnologias Utilizadas</h2>
-<ul>
-  <li>React</li>
-  <li>JavaScript</li>
-  <li>CSS</li>
-  <li>React Icons</li>
-</ul>
+---
 
-<h2>🔧 Como Usar</h2>
-<ol>
-  <li>Clone o repositório: <code>git clone https://github.com/nandosabino/todo-list.git</code></li>
-  <li>Instale as dependências: <code>npm install</code></li>
-  <li>Inicie o projeto: <code>npm start</code></li>
-</ol>
+## Preview 🖼
 
-<h2>💬 Contato</h2>
-<p>Fernando Sabino - <a href="mailto:sabinofernando05@gmail.com">sabinofernando05@gmail.com</a></p>
-<p><a href="https://www.linkedin.com/in/nandosabino/">LinkedIn</a></p>
+![Preview do aplicativo](./public/preview.png)
+
+---
+
+## Link do Site 🔗
+
+🌐 [Acesse o app online](https://todo-list-nandosabino.vercel.app)
+
+---
+
+## Tecnologias Utilizadas 🛠
+
+- **Framework:** React (com Vite)  
+- **Estilização:** CSS  
+- **Gerenciamento de estado:** useState  
+- **Persistência:** localStorage (para salvar tarefas)  
+- **Deploy:** Vercel  
+
+---
+
+## ⚙️ Funcionalidades
+
+- ➕ Adicionar nova tarefa  
+- ✅ Marcar tarefa como concluída / não concluída  
+- ❌ Remover tarefa  
+- 💾 Persistência de tarefas com localStorage  
+- 📱 Layout responsivo  
+
+---
+
+## 🚀 Como Rodar Localmente
+
+```bash
+# Clone o repositório
+git clone https://github.com/nandosabino/todo-list.git
+
+# Acesse a pasta
+cd todo-list
+
+# Instale as dependências
+npm install
+
+# Rode em modo de desenvolvimento
+npm run dev
