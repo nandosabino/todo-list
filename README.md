@@ -7,7 +7,7 @@ Permite ao usuário **adicionar, concluir e remover tarefas**, com interface sim
 
 ## Preview 🖼
 
-![Preview do aplicativo](./public/preview.png)
+![Preview do aplicativo](public/Preview.png)
 
 ---
 
