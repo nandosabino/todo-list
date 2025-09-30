@@ -13,7 +13,7 @@ Permite ao usuário **adicionar, concluir e remover tarefas**, com interface sim
 
 ## Link do Site 🔗
 
-🌐 [Acesse o app online](https://todo-list-nandosabino.vercel.app)
+🌐 [Acesse o app online](https://nandosabino.github.io/todo-list)
 
 ---
 
